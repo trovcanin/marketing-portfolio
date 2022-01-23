@@ -1,0 +1,17 @@
+@media screen and (max-width: 600px) {
+    /* body {
+      background-color: olive;
+    } */
+
+    h1{
+        font-size:50px !important
+    }
+
+    p{
+        font-size:23px !important
+    }
+
+    footer p{
+        font-size:15px !important
+    }
+  }
