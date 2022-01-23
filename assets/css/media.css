@@ -1,17 +1,25 @@
 @media screen and (max-width: 600px) {
     /* body {
-      background-color: olive;
+      background-color: olive !important;
     } */
 
     h1{
-        font-size:50px !important
+        font-size:50px !important;
     }
 
     p{
-        font-size:23px !important
+        font-size:23px !important;
     }
 
     footer p{
-        font-size:15px !important
+        font-size:15px !important;
+    }
+
+    li h3{
+        font-size:30px;
+    }
+
+    .photo{
+        height:10%;
     }
   }
