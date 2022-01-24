@@ -29,3 +29,9 @@ body{
     line-height:1 !important;
     font-size:1.5rem;
 }
+
+.mini-profile .inline-list li  {font-size:15px}
+.mini-profile p {
+    clear: both;
+    margin-bottom: 0px;
+}
